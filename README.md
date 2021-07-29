@@ -92,11 +92,13 @@ Check [`sample_info.py`](sample_info.py) before editing [`info.py`](info.py) fil
   <summary><b>See Commands</b></summary>
 <br/>
 
-/channel - Get basic infomation about channels
-/total - Show total of saved files
-/delete - Delete file from database
-/index - Index all files from channel.
-/logger - Get log file
+```
+channel - Get basic infomation about channels
+total - Show total of saved files
+delete - Delete file from database
+index - Index all files from channel.
+logger - Get log file
+```
 
 </details>
 
