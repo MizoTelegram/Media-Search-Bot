@@ -34,7 +34,7 @@
 </details>
 
 <details>
-  <summary><b>See Optional Features</b></summary>
+  <summary><b>See Optional Variables</b></summary>
 <br/>
 
 * `OMDB_API_KEY`: OMBD_API_KEY to generate imdb poster for filter results.Get it from [omdbapi.com](http://www.omdbapi.com/apikey.aspx)
