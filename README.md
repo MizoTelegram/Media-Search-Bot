@@ -42,15 +42,10 @@
 Example: `<b>Join [tgbotsProject](https://t.me/tgbotsProject) for more useful bots</b>\n\n<code>{file_name}</code>\nSize{file_size}\n{file_caption}.`
 * `AUTH_GROUPS` : ID of groups which bot should work as autofilter, bot can only work in thease groups. If not given , bot can be used in any group.
 * `COLLECTION_NAME`: Name of the collections. Defaults to Telegram_files. If you going to use same database, then use different collection name for each bot
-
 * `CACHE_TIME`: The maximum amount of time in seconds that the result of the inline query may be cached on the server
-
 * `USE_CAPTION_FILTER`: Whether bot should use captions to improve search results. (True/False)
-
 * `AUTH_USERS`: Username or ID of users to give access of inline search. Separate multiple users by space. Leave it empty if you don't want to restrict bot usage.
-
 * `AUTH_CHANNEL`: ID of channel. Without subscribing this channel users cannot use bot.
-
 * `START_MSG`: Welcome message for start command.
 
 </details>
